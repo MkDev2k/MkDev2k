@@ -1,7 +1,7 @@
 ### Olá sou o MKDEV2K  👏
 
-Ultimamente  estou me aperfeiçoando na parte front End!
-Pretendo em Pouco tempo iniciar os Estudos  de banco de dados,Nextjs,React js dentre outros!!
+Ultimamente  estou me aperfeiçoando na parte front End!</br>
+Pretendo em Pouco tempo iniciar os Estudos como Full stack!
 
 <p>Ao iniciar novas linguagens de estudo  , Atualizarei o perfil!<p>
 <strong><p>Email: Tonysilva2222@Hotmail.com<p><strong>
