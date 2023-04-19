@@ -15,9 +15,11 @@ Pretendo em Pouco tempo iniciar os Estudos como Full stack!
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="right" height="500" width="500" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif" />
 
-##
+<br/><br/><br/>
+<img align="left" height="500px" width="500px" src="https://images.pexels.com/photos/8134609/pexels-photo-8134609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
+<img align="right"  height="400" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-3.gif" />
+
 
 </div>
 
