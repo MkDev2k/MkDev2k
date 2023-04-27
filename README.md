@@ -1,7 +1,7 @@
 ### Olá sou o MKDEV2K  👏
 
-Ultimamente  estou me aperfeiçoando na parte front End!</br>
-Pretendo em Pouco tempo iniciar os Estudos como Full stack!
+Estou me Aperfeiçoando para ser um ótimo programador Full stack!<br/>
+Construo sites, land pages, totalmente responsivas e com o máximo de maestria possivel, confira no meu portifólio!
 
 <p>Ao iniciar novas linguagens de estudo  , Atualizarei o perfil!<p>
 <strong><p>Email: Tonysilva2222@Hotmail.com<p><strong>
