@@ -1,7 +1,29 @@
 ### Olá sou o MKDEV2K  👏
 
-Estou me Aperfeiçoando para ser um ótimo programador Full stack!<br/>
+
 Construo sites, land pages, totalmente responsivas e com o máximo de maestria possivel, confira no meu portifólio!
+
+<p>"Nível" de Conhecimento em Linguagens da Programação:</p>
+
+<p>HTML: Avançado</p>
+<p>CSS: Avançado</p>
+<p>Javascript: Intermediário</p>
+<p>PHP: Intermediário</p>
+
+<p>OBS: Não possuo faculdade na área de Tecnologia, todo meu conhecimento foi adquirido por cursos profissionalizantes e Bootcamps em programação, a Aúsencia do ensino superior na área nunca me impediu de exercer ou fazer qualquer coisa na área de programação, acredito que a programação não se limite a faculdade e sim ao esforço empregado por cada um em aprender.</p>
+
+
+
+<p>Soft Skills:</p>
+
+<p>1.Comunicativo</p>
+<p>2. Esforçado</p>
+<p>3. Prestatívo</p>
+<p>4. sempre objetivo aprender mais.</p>
+<p>5. concentrado</p>
+<p>6. interpessoal</p>
+
+
 
 
 <strong><p>Email: Tonysilva2222@Hotmail.com<p><strong>
