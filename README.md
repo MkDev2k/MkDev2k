@@ -3,7 +3,7 @@
 Estou me Aperfeiçoando para ser um ótimo programador Full stack!<br/>
 Construo sites, land pages, totalmente responsivas e com o máximo de maestria possivel, confira no meu portifólio!
 
-<p>Ao iniciar novas linguagens de estudo  , Atualizarei o perfil!<p>
+
 <strong><p>Email: Tonysilva2222@Hotmail.com<p><strong>
 <p><strong>Whatsapp:(81)99929-7142<strong><p
 <div>
@@ -15,6 +15,7 @@ Construo sites, land pages, totalmente responsivas e com o máximo de maestria p
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" heigth="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <hr/>
 <br/><br/><br/>
 <img align="left" height="500px" width="500px" src="https://images.pexels.com/photos/8134609/pexels-photo-8134609.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" />
